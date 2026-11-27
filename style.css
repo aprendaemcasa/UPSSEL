@@ -79,3 +79,4 @@ footer{padding:26px 0 110px;color:#64748b;font-size:12px;text-align:center}
 .cmp .bad b{color:#f87171}.cmp .ok b{color:#4ade80}
 .cmp small{color:#94a3b8;font-size:12px}
 .price s{white-space:nowrap}.box .price b{font-size:34px}.box .price{gap:8px}
+.grid .card:last-child:nth-child(odd){grid-column:1/-1;text-align:center}
