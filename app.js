@@ -1,6 +1,6 @@
 /* Configuração dos links — troque aqui se mudar o checkout */
 var CHECKOUT = {
-  upsell: { url: "https://pay.cakto.com.br/rkxs8ph", value: 19.9 },
+  upsell: { url: "https://pay.wiapy.com/_vsQYttDUke7", value: 19.9 },
   downsell: { url: "https://pay.cakto.com.br/j3vubdv_1336785", value: 14.9 }
 };
 var PIXEL_ID = "1573290757137188";
